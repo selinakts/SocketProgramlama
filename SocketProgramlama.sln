@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketProgramlama", "SocketProgramlama\SocketProgramlama.csproj", "{23AAA01B-E4FD-4696-ADD4-29AF2D2DA5DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23AAA01B-E4FD-4696-ADD4-29AF2D2DA5DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23AAA01B-E4FD-4696-ADD4-29AF2D2DA5DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23AAA01B-E4FD-4696-ADD4-29AF2D2DA5DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23AAA01B-E4FD-4696-ADD4-29AF2D2DA5DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A694ADF9-5D28-4159-A429-76C607DAC0C6}
+	EndGlobalSection
+EndGlobal
